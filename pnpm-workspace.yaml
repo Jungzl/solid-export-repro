@@ -1,0 +1,6 @@
+packages:
+  - app
+  - lib
+allowBuilds:
+  esbuild: false
+  sharp: false
