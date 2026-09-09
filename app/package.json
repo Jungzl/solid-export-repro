@@ -14,7 +14,7 @@
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",
     "@astrojs/solid-js": "^6.0.1",
-    "astro": "^6.3.1",
+    "astro": "^7.2.8",
     "solid-js": "^1.9.11",
     "solid-lib": "link:../lib"
   }
